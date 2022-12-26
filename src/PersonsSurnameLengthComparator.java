@@ -19,4 +19,3 @@ public class PersonsSurnameLengthComparator implements Comparator<Person> {
         }
     }
 }
-
